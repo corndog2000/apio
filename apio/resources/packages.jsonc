@@ -62,7 +62,7 @@
   "drivers": {
     "release": {
       "file_name": "tools-drivers-${P}-${V}",
-      "extension": "tar.gz",
+      "extension": "tgz",
       "available_platforms": [
         "windows_amd64"
       ]
